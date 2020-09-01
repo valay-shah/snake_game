@@ -27,4 +27,4 @@ void logic()
 
 ## Output
 
-![Output image](https://drive.google.com/file/d/1AUyijNcQfeSBU8k47WONZNYI9oa5C-ZY/view?usp=sharing)
+![Screenshot from 2020-09-01 19-59-17](https://user-images.githubusercontent.com/40459209/91866767-7b854a00-ec90-11ea-9550-8e24e1f4e0f8.png)
