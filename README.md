@@ -28,3 +28,6 @@ void logic()
 ## Output
 
 ![Screenshot from 2020-09-01 19-59-17](https://user-images.githubusercontent.com/40459209/91866767-7b854a00-ec90-11ea-9550-8e24e1f4e0f8.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/40459209/91929988-4cf18880-ecfd-11ea-9d70-962f2b531572.png)
+
