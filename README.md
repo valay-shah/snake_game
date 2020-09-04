@@ -12,7 +12,7 @@
 
 ## Method
 
-Some basis functions are
+Some basic functions are
 ```
 void setup()
 void draw()
